@@ -1,4 +1,4 @@
 # Technical-Analysis
 
 
-![Alt text](Monte Carlo Simulation.png)
+![Alt text](Monte_Carlo_Simulation.PNG)
